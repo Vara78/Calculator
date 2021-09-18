@@ -4,10 +4,10 @@ public class Calculator {
     /*
         This program generates a functional calculator.
         Author: Eric
-        Date: 2/19/2021111111
+        Date: 2/19/2021
 
         // TODO: Add scanner and user friendly functions
-        // TODO: Create GUI Toolssssssss
+        // TODO: Create GUI Tools
     */
 
     // Add method
