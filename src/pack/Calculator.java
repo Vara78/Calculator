@@ -7,7 +7,7 @@ public class Calculator {
         Date: 2/19/2021
 
         // TODO: Add scanner and user friendly functions
-        // TODO: Create GUI Tools
+        // TODO: Create GUI Toolss
     */
 
     public Calculator() {}
